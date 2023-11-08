@@ -1,2 +1,2 @@
-def tong(value, value1):
-  return value + value1
+def tong(a, b):
+  return a + b
